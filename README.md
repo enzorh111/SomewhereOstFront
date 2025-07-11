@@ -24,16 +24,24 @@ Este proyecto ha sido desarrollado con fines educativos y no tiene fines comerci
 En la carpeta "Assets" que se ubica en Project/Content/Assets podremos encontrar diferentes carpetas donde las siguientes contienen modelos externos:
 
 Ammo: Caja de munición licencia tipo CC Atribution - link del modelo y creador: https://sketchfab.com/3d-models/free-ammo-box-rocket-low-poly-c56e5719dc3049b8bede66e56712d8a8
+
 Barricade: Barricada licencia tipo CC Atribution - link del modelo y creador: https://sketchfab.com/3d-models/free-barricade-b7b92195d90e40ca99eece53b0de6314
+
 Hangar: Hangar licencia tipo CC Atribution - link del modelo y creador:https://sketchfab.com/3d-models/sci-fi-hangar-0625335964a5496980ccfbc3b76c49ff
+
 Landscape: Paisaje licencia tipo CC Atribution - link del modelo y creador:https://sketchfab.com/3d-models/mossygrassy-landscape-8f9a3ceee63747eea04c4b6ad2e5f5e2
+
 CombinedStaticMesh, TigerTank, y TigerTankMesh: Todas estas carpetas contienen un modelo de un tanque o sus partes licencia tipo CC Atribution - link del modelo y creador: https://sketchfab.com/3d-models/tiger-i-panzer-vi-tiger-low-poly-2adadbe22f2c43f8a229d4b082564a89
+
 Tree: Arbol licencia tipo CC Atribution - link del modelo y creador: https://sketchfab.com/3d-models/realistic-tree-2-free-2cd58e603ae542c78dd9cada46496921
 
 En la carpeta "Sound" que se ubica en "Project/Content/Assets/Sound" podremos encontrar diferentes audios externos:
 SW_Ambient: Sonido de ambiente licencia tipo CC 0 - link del sonido y creador: https://freesound.org/people/kvgarlic/sounds/386922/
+
 SW_Reload: Sonido de coger munición licencia tipo CC 0 - link del sonido y creador: https://freesound.org/people/ken788/sounds/386744/
+
 SW_Step: Sonido de pasos licencia tipo Attribution 4.0  - link del sonido y creador: https://freesound.org/people/spycrah/sounds/535220/
+
 
 
 # Entrevista
